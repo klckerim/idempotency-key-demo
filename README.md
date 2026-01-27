@@ -1,4 +1,4 @@
-# Idempotency Key Demo
+# Idempotency Key Case Study
 
 POST /transfer
 
